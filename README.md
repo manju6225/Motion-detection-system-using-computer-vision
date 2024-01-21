@@ -1,5 +1,5 @@
 # Motion-detection-system-using-computer-vision
-"Motion Detection using Python with OpenCV" involves implementing a 
+Motion Detection using Python with OpenCV" involves implementing a 
 computer vision application that can detect motion in a video stream using Python 
 programming language and OpenCV library. The application uses techniques such as 
 background subtraction, thresholding, and contour detection to identify regions of the video 
